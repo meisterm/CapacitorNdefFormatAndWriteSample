@@ -1,0 +1,7 @@
+{
+  "name": "CapacitorNdefFormatAndWriteSample",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
